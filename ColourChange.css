@@ -1,0 +1,16 @@
+html,body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#colorBtn{
+    font-size: 2em;
+    border-radius: 5px;
+}
